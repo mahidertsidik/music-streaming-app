@@ -145,9 +145,9 @@ Copy code
 
 ---
  ## Contributors
-- [@Mahder Merha](https://github.com/mahidertsidik) – 💻 Code
-- [@Ebisse Fantahun](https://github.com/EseteEyesus)) – 🎨 Design
-- 
+- [@Mahder Merha](https://github.com/mahidertsidik) – 🎨 Documentation and Testing
+- [@Ebisse Fantahun](https://github.com/EseteEyesus)) –  💻 Code
+- [@Tsiyon_Taye](https://github.com/EseteEyesus)) - Design
 ## Running the Project
 
 ### Prerequisites
