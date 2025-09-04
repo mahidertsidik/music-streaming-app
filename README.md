@@ -145,8 +145,8 @@ Copy code
 
 ---
  ## Contributors
-- [@username1](https://github.com/username1) – 💻 Code
-- [@EseteEyesus](https://github.com/EseteEyesus)) – 🎨 Design
+- [@Mahder Merha](https://github.com/mahidertsidik) – 💻 Code
+- [@Ebisse Fantahun](https://github.com/EseteEyesus)) – 🎨 Design
 - 
 ## Running the Project
 
