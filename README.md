@@ -151,7 +151,7 @@ Watch the full demo here: [Click to Watch](https://drive.google.com/file/d/185fb
  ## Contributors
 - [@Mahder Merha](https://github.com/mahidertsidik) – 📖 Documentation and Testing
 - [@Ebisse Fantahun](https://github.com/EseteEyesus)) –  💻 Code
-- [@Tsiyon Taye](https://github.com/EseteEyesus)) -🎨 Design
+- [@Tsiyon Taye](https://github.com/tsion1216)) -🎨 Design
 ## Running the Project
 
 ### Prerequisites
