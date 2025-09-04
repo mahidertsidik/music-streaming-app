@@ -146,7 +146,7 @@ Copy code
 ---
  ## Contributors
 - [@username1](https://github.com/username1) – 💻 Code
-- [@EseteEyesus](https://github.com/username2) – 🎨 Design
+- [@EseteEyesus](https://github.com/EseteEyesus)) – 🎨 Design
 - 
 ## Running the Project
 
