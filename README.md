@@ -152,7 +152,7 @@ Copy code
 ### Install & Run
 ```bash
 # Clone the repository
-git clone https://github.com/EseteEyesus/Best-Music-Streaming-Platform.git
+git clone (https://github.com/mahidertsidik/music-streaming-app.git)
 cd Best-Music-Streaming-Platform
 
 # Install dependencies
