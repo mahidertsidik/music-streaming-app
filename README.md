@@ -8,10 +8,11 @@ A modern full-stack web application that allows users to **browse, play, and man
 1. [Overview & Objectives](#overview--objectives)
 2. [Features](#features)
 3. [Architecture & Tech Stack](#architecture--tech-stack)
-4. [Running the Project](#running-the-project)
-5. [Demo Data & Test Account](#demo-data--test-account)
-6. [License](#license)
-7. [Contributors](#contributors)
+4.  [Contributors](#contributors)
+5. [Running the Project](#running-the-project)
+6. [Demo Data & Test Account](#demo-data--test-account)
+7. [License](#license)
+
 
 ---
 
@@ -143,7 +144,10 @@ Copy code
 5. **PostgreSQL** stores persistent data (users, songs, playlists, favorites).
 
 ---
-
+ ## Contributors
+- [@username1](https://github.com/username1) – 💻 Code
+- [@EseteEyesus](https://github.com/username2) – 🎨 Design
+- 
 ## Running the Project
 
 ### Prerequisites
@@ -175,6 +179,4 @@ Demo user (if Auth added):
 Email: demo@example.com
 
 Password: Demo#2025 (read-only)
- ## Contributors
-- [@username1](https://github.com/username1) – 💻 Code
-- [@EseteEyesus](https://github.com/username2) – 🎨 Design
+
