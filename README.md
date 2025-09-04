@@ -11,6 +11,7 @@ A modern full-stack web application that allows users to **browse, play, and man
 4. [Running the Project](#running-the-project)
 5. [Demo Data & Test Account](#demo-data--test-account)
 6. [License](#license)
+7. Contributors
 
 ---
 
@@ -174,3 +175,6 @@ Demo user (if Auth added):
 Email: demo@example.com
 
 Password: Demo#2025 (read-only)
+## 👥 Contributors
+- [@us](https://github.com/username1) – 💻 Code
+- [EseteEyesus](https://github.com/EseteEyesus) – 🎨 Design
