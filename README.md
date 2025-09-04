@@ -9,9 +9,10 @@ A modern full-stack web application that allows users to **browse, play, and man
 2. [Features](#features)
 3. [Architecture & Tech Stack](#architecture--tech-stack)
 4.  [Contributors](#contributors)
-5. [Running the Project](#running-the-project)
-6. [Demo Data & Test Account](#demo-data--test-account)
-7. [License](#license)
+5.  [Demo Video](#demo-video)
+6. [Running the Project](#running-the-project)
+7. [Demo Data & Test Account](#demo-data--test-account)
+8. [License](#license)
 
 
 ---
@@ -144,10 +145,13 @@ Copy code
 5. **PostgreSQL** stores persistent data (users, songs, playlists, favorites).
 
 ---
+## 🎥 Demo Video
+Watch the full demo here: [Click to Watch](https://drive.google.com/file/d/185fbSBvqQRYuGBJQfuAugREztDrJYHFj/view)
+
  ## Contributors
-- [@Mahder Merha](https://github.com/mahidertsidik) – 🎨 Documentation and Testing
+- [@Mahder Merha](https://github.com/mahidertsidik) – 📖 Documentation and Testing
 - [@Ebisse Fantahun](https://github.com/EseteEyesus)) –  💻 Code
-- [@Tsiyon_Taye](https://github.com/EseteEyesus)) - Design
+- [@Tsiyon Taye](https://github.com/EseteEyesus)) -🎨 Design
 ## Running the Project
 
 ### Prerequisites
@@ -157,7 +161,8 @@ Copy code
 ### Install & Run
 ```bash
 # Clone the repository
-git clone [(https://github.com/mahidertsidik/music-streaming-app)]
+git clone https://github.com/mahidertsidik/music-streaming-app
+
 cd music-streaming-app
 
 # Install dependencies
